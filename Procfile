@@ -1,1 +1,1 @@
-web: gunicorn zerotha_scanner:app
+web: gunicorn login:app
